@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Raadrsr
+- 👋 Hi, I’m Raad
 - For security reasons all projects have been taken offline.
 - All projects will be gradually brought back into service starting in August 2022.
 - Please have understanding for this.
