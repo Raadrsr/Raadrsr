@@ -2,7 +2,7 @@
 - For security reasons all projects have been taken offline.
 - All projects will be gradually brought back into service starting in December 2022.
 - Please have understanding for this.
-- You can find more information on my Discord server. -> https://discord.gg/y4hRMM6g
+- You can find more information on my Discord server. -> https://discord.gg/Dt4Hhsn8
 
 <!---
 Raadrsr/Raadrsr is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
