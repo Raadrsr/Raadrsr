@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Raad
 - For security reasons all projects have been taken offline.
-- All projects will be gradually brought back into service starting in December 2022.
+- All projects will be gradually brought back into service starting in December 2023.
 - Please have understanding for this.
 - You can find more information on my Discord server. -> https://discord.gg/nrvrZwYVWC
 
